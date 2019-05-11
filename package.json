@@ -1,0 +1,23 @@
+{
+  "name": "@jeffthemaximum/test",
+  "version": "1.0.0",
+  "description": "a LIGHTweight test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jeffthemaximum/test.git"
+  },
+  "keywords": [
+    "javascript",
+    "testing"
+  ],
+  "author": "Jeff Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffthemaximum/test/issues"
+  },
+  "homepage": "https://github.com/jeffthemaximum/test#readme"
+}
